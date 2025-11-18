@@ -8,17 +8,30 @@ Tenho experiência com **Python**, estou aprendendo **Java** e venho aprimorando
 
 Minha trajetória na tecnologia começou ainda no IFES, onde participei de projetos científicos e de extensão que despertaram meu interesse por ciência, inovação e impacto social por meio da tecnologia.
 
-💡 **Interesses principais:** Desenvolvimento Web, Python, Java, Projetos acadêmicos e Iniciação científica.
+💡 **Interesses principais:** Desenvolvimento Web, Python, Git/GitHub, Cibersegurança, Projetos Acadêmicos e Iniciação Científica.
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 🚀 Linguagens e Tecnologias
 
-- **Linguagens:** Python, Java, JavaScript  
-- **Front-End:** HTML, CSS  
-- **Ferramentas:** Git & GitHub  
-- **Soft Skills:** Comunicação, trabalho em equipe, resolução de problemas  
-- **Outros:** LGPD 
+<div align="center">
+
+<!-- Linguagens -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- Front-End -->
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Ferramentas -->
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
@@ -34,10 +47,26 @@ Minha trajetória na tecnologia começou ainda no IFES, onde participei de proje
 
 ---
 
-## 🔗 Onde me encontrar
+## 🔗 Entre em contato comigo
 
-📧 **Email:** gnascimento.cs@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/gabrielanasciment](https://www.linkedin.com/in/gabrielanasciment)
+<div align="center">
+
+<a href="mailto:gnascimento.cs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gabrielanasciment/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/gabioliveir">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 
 ---
 
